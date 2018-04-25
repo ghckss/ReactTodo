@@ -1,0 +1,26 @@
+head, body, h1, h2, h3, h4, h5, h6, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+ul, li {
+    list-style: none;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.circle {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    font-size: 36px;
+    outline: 0;
+}
+
+.right {
+    position: absolute;
+    right: 10px;
+}
